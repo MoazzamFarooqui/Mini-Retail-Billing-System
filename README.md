@@ -124,16 +124,4 @@ This project demonstrates practical implementation of:
 
 ---
 
-## Screenshots
 
-Add screenshots of the application here.
-
-Example:
-
-```text
-screenshots/
-├── welcome_screen.png
-├── item_menu.png
-├── invoice.png
-└── final_bill.png
-```
