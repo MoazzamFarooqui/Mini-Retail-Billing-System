@@ -124,4 +124,15 @@ This project demonstrates practical implementation of:
 
 ---
 
+## Screenshots
+
+<img width="646" height="205" alt="image" src="https://github.com/user-attachments/assets/21ecfe5b-0504-40df-b19c-ae2c6ace610a" />
+
+<img width="573" height="256" alt="image" src="https://github.com/user-attachments/assets/78e05061-f5b9-4a67-9197-5a22f51a45b1" />
+
+<img width="558" height="233" alt="image" src="https://github.com/user-attachments/assets/20a8bc67-48f2-4252-9f19-f571f6428aaa" />
+
+
+
+
 
